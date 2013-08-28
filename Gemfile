@@ -2,4 +2,4 @@ source "http://rubygems.org"
 
 gemspec
 
-gem "jquery-rails", "~= 2.2.0"
+gem "jquery-rails", "~= 3.0.4"
